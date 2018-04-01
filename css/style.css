@@ -1,0 +1,31 @@
+body {
+  background-color: black;
+  font-family: Verdana;
+  text-align: center;
+
+}
+h1{
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+h2{
+  font-size: 16px;
+  color: aquamarine;
+  text-align: center;
+}
+h3{
+  font-size: 21px;
+  color: white;
+  text-align: center;
+}
+p{
+  color: Gray;
+  font-size: 21px;
+}
+a{
+  color: aquamarine;
+}
+.footer{
+  text-align: right;
+}
